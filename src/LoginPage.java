@@ -11,8 +11,8 @@ public class LoginPage implements ActionListener {
     JTextField userIDField = new JTextField();
     JPasswordField userPasswordField = new JPasswordField();
     JLabel userIDLabel = new JLabel("userID: ");
-    JLabel userPasswordLabel = new JLabel("userID: ");
-    JLabel messageLabel = new JLabel("THIS IS A TEST");
+    JLabel userPasswordLabel = new JLabel("userPassword: ");
+    JLabel messageLabel = new JLabel("Login System");
     HashMap<String,String> logininfo = new HashMap<String,String>();
 
 
